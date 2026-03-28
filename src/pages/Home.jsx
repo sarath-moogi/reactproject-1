@@ -5,7 +5,7 @@ const Home = () => {
         <h1>Modular Component Showcase</h1>
         <p>
           A professional React SPA demonstrating reusable UI components,
-          routing, controlled state, async simulation, and performance optimization.
+          routing, controlled state.
         </p>
       </div>
 

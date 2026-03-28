@@ -25,7 +25,7 @@ export default function Demo9() {
   return (
     <div>
       <h2><u>Dynamic Table</u></h2>
-      <h3><u>Product List Demo</u></h3>
+      <h3><u>Product List Demo</u></h3> <br/>
 
       Product Name:
       <input
